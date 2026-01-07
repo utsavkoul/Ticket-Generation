@@ -1,0 +1,13 @@
+com\example\ticketingsystem\Entities\User.class
+com\example\ticketingsystem\TicketingsystemApplication.class
+com\example\ticketingsystem\Enums\Priority.class
+com\example\ticketingsystem\Repository\UserRepository.class
+com\example\ticketingsystem\Services\TicketServices.class
+com\example\ticketingsystem\Enums\Status.class
+com\example\ticketingsystem\Entities\Ticket.class
+com\example\ticketingsystem\Controller\TicketController.class
+com\example\ticketingsystem\Repository\TicketRepository.class
+com\example\ticketingsystem\Controller\UserController.class
+com\example\ticketingsystem\Enums\Department.class
+com\example\ticketingsystem\Dtos\TicketDto.class
+com\example\ticketingsystem\Repository\ServiceImpl.class

@@ -1,0 +1,14 @@
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Controller\TicketController.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Controller\UserController.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Dtos\TicketDto.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Entities\Ticket.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Entities\User.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Enums\Department.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Enums\Priority.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Enums\Status.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Mappers\TicketMapper.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Repository\ServiceImpl.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Repository\TicketRepository.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Repository\UserRepository.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\Services\TicketServices.java
+C:\Users\hyped\OneDrive\Documents\projects\ticketingsystem\src\main\java\com\example\ticketingsystem\TicketingsystemApplication.java
