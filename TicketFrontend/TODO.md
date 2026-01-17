@@ -1,0 +1,7 @@
+- [x] Update SideBar.jsx to an Offcanvas component with show state and menu items
+- [x] Update NavBar.jsx to include a toggle button for the Offcanvas and embed the Offcanvas SideBar
+- [x] Update DashBoard.jsx to remove SideBar import and usage, remove main-content wrapper, and change yourtickets route element to a div placeholder
+- [x] Update App.jsx to remove SideBar and YourTickets imports
+- [x] Update App.css to change text-align to center in #root
+- [x] Update ListofTickets.jsx to wrap content in Container and use Row/Col for better Bootstrap layout
+- [x] Update YourTickets.jsx to fix onClick bug and wrap content in Container with Row/Col
